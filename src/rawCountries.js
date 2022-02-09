@@ -1134,7 +1134,7 @@ const rawCountries = [
     ['asia'],
     'kr',
     '82',
-    '... .... ....'
+    '...-....-....'
   ],
   [
     'South Sudan',
